@@ -12,7 +12,7 @@ const CONFIG = {
   SECRET_KEY: 'cryptomaster2025',
 
   // Your website's base URL (for referral links)
-  SITE_URL: window.location.origin + window.location.pathname.replace('index.html',''),
+  SITE_URL:'https://thisarachanaka0-creator.github.io/cryptomaster/',('index.html',''),
 
   // Commission per matched pair (USD)
   COMMISSION_PER_PAIR: 10,
